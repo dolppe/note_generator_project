@@ -5,6 +5,8 @@
 
 인공지능을 활용하여 음악에 대한 노트 파일을 자동으로 생성해줍니다.
 
+DeepSaber, Dance Dance Convolution을 참고하여 제작하였습니다.
+
 ## 🤝 Team Info
 | 임연지 [(Yeonji-Lim)](https://github.com/Yeonji-Lim) | 유성민 [(dolppe)](https://github.com/dolppe) | 정유진 [(JYOOJIN)](https://github.com/JYOOJIN) |
 | :---: | :---: | :---: | 
@@ -16,3 +18,5 @@
 ## 🔧 참고
 oxai deepsaber:
 https://oxai.org/beatsaber
+Dance Dance Convolution:
+https://github.com/chrisdonahue/ddc
