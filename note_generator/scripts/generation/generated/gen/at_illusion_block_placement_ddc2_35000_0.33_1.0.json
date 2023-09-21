@@ -1,0 +1,2169 @@
+{
+    "_events": [],
+    "_notes": [
+        {
+            "_time": 0.2773333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 6.826666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 7.168,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 7.978666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 8.384,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 8.789333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 9.152,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 9.514666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 9.898666666666665,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 10.602666666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 11.498666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 11.989333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 12.629333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 12.949333333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 13.781333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 14.208,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 14.805333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 15.189333333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 15.744,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 16.512,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 16.938666666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 17.237333333333332,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 17.536,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 17.855999999999998,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 18.133333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 18.453333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 18.773333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 19.11466666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 20.181333333333335,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 20.757333333333335,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 21.482666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 21.973333333333336,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 22.656,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 23.168,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 23.808,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 24.149333333333335,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 24.576,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 25.301333333333332,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 26.090666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 27.072,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 27.79733333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 28.224,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 28.650666666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 29.504,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 30.101333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 30.869333333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 31.530666666666665,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 31.872,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 32.21333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 33.06666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 33.36533333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 33.664,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 34.09066666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 34.368,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 34.73066666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 35.434666666666665,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 36.373333333333335,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 36.757333333333335,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 37.333333333333336,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 37.90933333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 38.18666666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 38.57066666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 39.168,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 39.744,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 40.29866666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 40.81066666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 41.94133333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 42.794666666666664,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 43.733333333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 44.352,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 44.672000000000004,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 45.440000000000005,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 45.86666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 46.61333333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 47.29600000000001,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 47.63733333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 48.0,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 48.36266666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 48.93866666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 49.216,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 49.664,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 50.19733333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 50.858666666666664,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 51.370666666666665,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 51.925333333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 52.88533333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 53.205333333333336,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 53.824,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 54.42133333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 54.89066666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 55.936,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 56.27733333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 56.832,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 57.408,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 58.09066666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 58.602666666666664,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 59.157333333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 59.541333333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 60.181333333333335,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 60.522666666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 61.141333333333336,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 61.781333333333336,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 62.18666666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 62.76266666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 63.25333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 64.08533333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 64.59733333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 65.08800000000001,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 65.664,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 66.00533333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 66.60266666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 67.11466666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 67.41333333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 67.79733333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 68.30933333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 68.71466666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 69.29066666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 69.632,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 70.18666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 70.54933333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 71.08266666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 71.50933333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 72.256,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 72.83200000000001,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 73.28,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 73.89866666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 74.21866666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 74.60266666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 75.22133333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 76.07466666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 76.52266666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 76.94933333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 77.39733333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 77.88799999999999,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 78.22933333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 78.82666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 79.44533333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 79.82933333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 80.61866666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 81.23733333333332,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 81.74933333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 82.02666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 82.41066666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 82.944,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 83.37066666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 83.92533333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 84.24533333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 84.82133333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 85.312,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 85.71733333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 86.12266666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 86.50666666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 86.97600000000001,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 87.42399999999999,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 87.95733333333332,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 88.81066666666668,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 90.00533333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 90.70933333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 91.17866666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 91.584,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 92.096,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 92.416,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 92.992,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 93.376,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 94.22933333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 95.25333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 96.59733333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 97.536,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 97.87733333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 98.432,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 99.264,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 100.01066666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 100.65066666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 101.22666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 102.37866666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 103.59466666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 103.97866666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 104.40533333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 105.62133333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 106.11200000000001,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 106.624,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 107.17866666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 107.49866666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 107.98933333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 108.50133333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 108.97066666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 110.03733333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 110.74133333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 111.72266666666665,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 112.768,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 113.664,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 114.51733333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 115.69066666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 116.33066666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 117.248,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 117.78133333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 118.08,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 118.61333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 119.16799999999999,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 121.28,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 122.64533333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 123.09333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 123.52,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 123.968,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 124.48,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 124.8,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 125.35466666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 125.78133333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 126.25066666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 127.232,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 127.63733333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 128.192,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 129.024,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 130.112,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 131.28533333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 131.584,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 132.032,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 132.77866666666668,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 133.632,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 134.63466666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 135.46666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 136.5546666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 137.28,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 137.66400000000002,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 138.26133333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 139.072,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 140.01066666666665,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 140.54399999999998,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 140.90666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 141.86666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 142.42133333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 142.78400000000002,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 143.808,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 144.64,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 145.6,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 145.92000000000002,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 146.68800000000002,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 147.43466666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 148.4586666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 149.248,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 149.61066666666665,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 150.272,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 150.54933333333332,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 151.488,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 151.936,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 152.46933333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 153.13066666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 155.072,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 155.56266666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 156.88533333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 157.90933333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 158.76266666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 159.25333333333336,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 160.17066666666668,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 160.704,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 160.9813333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 162.83733333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 163.84,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 164.20266666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 164.90666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 165.696,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 166.07999999999998,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 166.57066666666665,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 167.65866666666668,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 168.34133333333332,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 170.19733333333335,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 171.09333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 171.56266666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 172.05333333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 172.52266666666668,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 173.12,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 173.888,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 174.76266666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 175.21066666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 176.12800000000001,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 176.68266666666665,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 176.9813333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 177.728,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 179.02933333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 179.41333333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 179.968,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 180.71466666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 181.18400000000003,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 181.58933333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 182.10133333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 182.44266666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 182.86933333333334,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 183.89333333333335,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 184.27733333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 184.832,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 185.36533333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 186.02666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 187.328,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 188.24533333333332,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 188.736,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 189.29066666666668,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 189.73866666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 190.208,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 190.99733333333333,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 191.46666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 191.744,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 192.38400000000001,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 192.832,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 194.04799999999997,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 195.11466666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 195.49866666666668,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 195.94666666666666,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 196.48,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        },
+        {
+            "_time": 196.90666666666667,
+            "_cutDirection": 1,
+            "_lineIndex": 1,
+            "_lineLayer": 1,
+            "_type": 0
+        }
+    ],
+    "_obstacles": []
+}
