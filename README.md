@@ -17,6 +17,6 @@ DeepSaber, Dance Dance Convolution을 참고하여 제작하였습니다.
 
 ## 🔧 참고
 oxai deepsaber:
-https://oxai.org/beatsaber
+https://oxai.org/beatsaber  
 Dance Dance Convolution:
 https://github.com/chrisdonahue/ddc
